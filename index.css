@@ -1,23 +1,37 @@
-body{
+body {
     background-color: black;
     font-family: 'Noto Sans KR', sans-serif;
 }
-h1{
+
+h1 {
     text-align: center;
     color: white;
+    font-size: 84px;
+    margin: 0px auto;
+}
+
+p {
+    text-align: left;
+    color: white;
+    font-size: 20px;
     
 }
-h4{
-    text-align: center;
-    color: white
+pre{
+    font-family: 'Noto Sans KR', sans-serif;
+    text-align: left;
+    color: white;
+    font-size: 20px;
+    margin: 0px auto;
 }
-.center{
+
+.center {
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 .button {
-    border: none; 
+    border: none;
     color: white;
     padding: 16px 32px;
     text-align: center;
@@ -27,55 +41,39 @@ h4{
     margin: 4px 2px;
     transition-duration: 0.4s;
     cursor: pointer;
-  }
-  .button1{
-    background-color: black; 
-    color: white; 
+    
+}
+
+.about {
+    background-color: black;
+    color: white;
+    border: 2px solid #F49D0B;
+}
+
+.about:hover {
+    background-color: #F49D0B;
+    color: white;
+}
+
+.button1 {
+    background-color: black;
+    color: white;
     border: 2px solid #4CAF50;
-  }
-  .button1:hover {
+}
+
+.button1:hover {
     background-color: #4CAF50;
     color: white;
-  }
-  .button2 {
-    background-color: black; 
-    color: white; 
+}
+
+.button2 {
+    background-color: black;
+    color: white;
     border: 2px solid #415F90;
-  }
-  
-  .button2:hover {
+}
+
+.button2:hover {
     background-color: #415F90;
     color: white;
-  }
-  .button3 {
-    background-color: black; 
-    color: white; 
-    border: 2px solid #CC0000;
-  }
-  
-  .button3:hover {
-    background-color: #CC0000;
-    color: white;
-  }
+}
 
-  .button4 {
-    background-color: black;
-    color: white;
-    border: 2px solid #ED6FA8;
-  }
-
-  .button4:hover {
-    background-color: #ED6FA8;
-    color: white;
-  }
-
-  .button5 {
-    background-color: black;
-    color: white;
-    border: 2px solid #9146FF;
-  }
-
-  .button5:hover {
-    background-color: #9146FF;
-    color: white;
-  }
