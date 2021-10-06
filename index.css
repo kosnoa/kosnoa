@@ -57,3 +57,25 @@ h4{
     background-color: #CC0000;
     color: white;
   }
+
+  .button4 {
+    background-color: black;
+    color: white;
+    border: 2px solid #ED6FA8;
+  }
+
+  .button4:hover {
+    background-color: #ED6FA8;
+    color: white;
+  }
+
+  .button5 {
+    background-color: black;
+    color: white;
+    border: 2px solid #9146FF;
+  }
+
+  .button5:hover {
+    background-color: #9146FF;
+    color: white;
+  }
