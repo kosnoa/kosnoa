@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+h1{
+    text-align: center;
+    color: white;
+    
+}
+p{
+    text-align: center;
+    color: white
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button {
+    border: none; 
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  .button1{
+    background-color: black; 
+    color: white; 
+    border: 2px solid #4CAF50;
+  }
+  .button1:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  .button2 {
+    background-color: black; 
+    color: white; 
+    border: 2px solid #415F90;
+  }
+  
+  .button2:hover {
+    background-color: #415F90;
+    color: white;
+  }
