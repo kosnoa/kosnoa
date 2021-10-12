@@ -71,13 +71,3 @@ pre{
     background-color: #9146FF;
     color: white;
 }
-.button6 {
-    background-color: black;
-    color: white;
-    border: 2px solid #F9E6C6;
-}
-
-.button6:hover {
-    background-color: #F9E6C6;
-    color: white;
-}
