@@ -77,3 +77,13 @@ pre{
     color: white;
 }
 
+.button3 {
+    background-color: black;
+    color: white;
+    border: 2px solid #B81F22;
+}
+
+.button3:hover {
+    background-color: #B81F22;
+    color: white;
+}
