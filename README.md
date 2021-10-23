@@ -6,8 +6,20 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kosnoa">
 
-- 🌱 I’m currently learning Node, React, Algorithm
-- 🌱 I’m currently learning `Node`, `React`, `Algorithm`
-- 🥇 I majored in Economics
-- 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
+- 🌱 I’m currently learning `Algorithm`
+- 🥇 I am currently a High-school Student
+- 🚅 I am currently studying in Canada
 
+### Experience
+
+- 🎓 `Clang` Study (2020.11~2021.03)
+- 🎓 `Algorithm` Study (2021.09~ )
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=kosnoa" height="165">
+
+### What I Like
+
+- 🔵 Game
+- 😴 Sleep
+- 👨‍💻 Coding (These Days I do a lot)
