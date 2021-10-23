@@ -24,3 +24,7 @@
 - 🔵 Game
 - 😴 Sleep
 - 👨‍💻 Coding (These Days I do a lot)
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=kosnoa)](https://solved.ac/profile/kosnoa)
