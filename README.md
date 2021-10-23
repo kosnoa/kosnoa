@@ -4,7 +4,7 @@
 
 ### Who Am I
 
-<img align='right' href="https://solved.ac/profile/kosnoa" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kosnoa">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kosnoa">
 
 - 🌱 I’m currently learning `Algorithm`
 - 🥇 I am currently a High-school Student
