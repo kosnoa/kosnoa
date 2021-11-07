@@ -23,6 +23,5 @@
 
 - 🔵 Game
 - 😴 Sleep
-- 👨‍💻 Coding (These Days I do a lot)
-
+- 👨‍💻 Coding
 
