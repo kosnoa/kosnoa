@@ -61,4 +61,15 @@ pre{
     color: white;
 }
 
+.gaming {
+    background-color: black;
+    color: white;
+    border: 2px solid #82EEFD;
+}
+
+.gaming:hover {
+    background-color: #82EEFD;
+    color: white;
+}
+
 
