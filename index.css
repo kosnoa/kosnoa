@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+  }
+
 body {
     background-color: black;
     font-family: 'Noto Sans KR', sans-serif;
@@ -6,7 +10,7 @@ body {
 h1 {
     text-align: center;
     color: white;
-    font-size: 84px;
+    font-size: 74px;
     margin: 0px auto;
 }
 
@@ -57,24 +61,4 @@ pre{
     color: white;
 }
 
-.button2 {
-    background-color: black;
-    color: white;
-    border: 2px solid #415F90;
-}
 
-.button2:hover {
-    background-color: #415F90;
-    color: white;
-}
-
-.button3 {
-    background-color: black;
-    color: white;
-    border: 2px solid #B81F22;
-}
-
-.button3:hover {
-    background-color: #B81F22;
-    color: white;
-}

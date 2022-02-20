@@ -29,8 +29,6 @@ pre{
     justify-content: center;
     align-items: center;
 }
-
-
 .button {
     border: none;
     color: white;
@@ -43,24 +41,35 @@ pre{
     transition-duration: 0.4s;
     cursor: pointer;
 }
-.button2 {
-    background-color: black;
-    color: white;
-    border: 2px solid #415F90;
-}
-
-.button2:hover {
-    background-color: #415F90;
-    color: white;
-}
-
 .button3 {
     background-color: black;
     color: white;
-    border: 2px solid #B81F22;
+    border: 2px solid #CC0000;
 }
 
 .button3:hover {
-    background-color: #B81F22;
+    background-color: #CC0000;
+    color: white;
+}
+
+.button4 {
+    background-color: black;
+    color: white;
+    border: 2px solid #ED6FA8;
+}
+
+.button4:hover {
+    background-color: #ED6FA8;
+    color: white;
+}
+
+.button5 {
+    background-color: black;
+    color: white;
+    border: 2px solid #9146FF;
+}
+
+.button5:hover {
+    background-color: #9146FF;
     color: white;
 }
