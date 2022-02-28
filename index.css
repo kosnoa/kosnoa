@@ -72,4 +72,12 @@ pre{
     color: white;
 }
 
-
+.ukraine {
+    background-color: black;
+    color: white;
+    border: 2px solid #0057b7;
+}
+.ukraine:hover{
+    background-color: #ffd700;
+    color: white;
+}
