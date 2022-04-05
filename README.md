@@ -14,7 +14,7 @@
 
 - 🎓 `HTML` `CSS` (Only Internet Search)
 - 🎓 `Clang` (2020.11~2021.03)
-- 🎓 `Algorithm` (2021.09~ )
+- 🎓 `Algorithm` (2021.03~ )
 - 🎓 `JavaScript` (2022.02~ )
 
 
