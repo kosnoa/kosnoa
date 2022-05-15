@@ -1,6 +1,6 @@
 html {
     scroll-behavior: smooth;
-  }
+}
 
 body {
     background-color: black;
@@ -18,17 +18,15 @@ p {
     text-align: left;
     color: white;
     font-size: 20px;
-    
 }
-pre{
+
+pre {
     font-family: 'Noto Sans KR', sans-serif;
     text-align: left;
     color: white;
     font-size: 20px;
     margin: 0px auto;
 }
-
-
 
 .center {
     display: flex;
@@ -47,7 +45,6 @@ pre{
     margin: 4px 2px;
     transition-duration: 0.4s;
     cursor: pointer;
-    
 }
 
 .about {
@@ -77,7 +74,16 @@ pre{
     color: white;
     border: 2px solid #0057b7;
 }
-.ukraine:hover{
+
+.ukraine:hover {
     background-color: #ffd700;
     color: white;
+}
+
+.alert-box {
+    background-color: skyblue;
+    padding: 20px;
+    color: white;
+    border-radius: 5px;
+    display: none;
 }
