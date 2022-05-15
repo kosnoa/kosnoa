@@ -22,7 +22,7 @@
 
 ### What I Like
 
-- 🔵 Game
+- 🎮 Game
 - 😴 Sleep
 - 👨‍💻 Coding
 
