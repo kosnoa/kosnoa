@@ -1,0 +1,89 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: black;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 74px;
+    margin: 0px auto;
+}
+
+p {
+    text-align: left;
+    color: white;
+    font-size: 20px;
+}
+
+pre {
+    font-family: 'Noto Sans KR', sans-serif;
+    text-align: left;
+    color: white;
+    font-size: 20px;
+    margin: 0px auto;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.about {
+    background-color: black;
+    color: white;
+    border: 2px solid #F49D0B;
+}
+
+.about:hover {
+    background-color: #F49D0B;
+    color: white;
+}
+
+.gaming {
+    background-color: black;
+    color: white;
+    border: 2px solid #82EEFD;
+}
+
+.gaming:hover {
+    background-color: #82EEFD;
+    color: white;
+}
+
+.ukraine {
+    background-color: black;
+    color: white;
+    border: 2px solid #0057b7;
+}
+
+.ukraine:hover {
+    background-color: #ffd700;
+    color: white;
+}
+
+.alert-box {
+    background-color: skyblue;
+    padding: 20px;
+    color: white;
+    border-radius: 5px;
+    display: none;
+}
