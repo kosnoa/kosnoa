@@ -15,7 +15,7 @@
 - 🎓 `HTML` `CSS` (Only Internet Search)
 - 🎓 `Clang` (2020.11~2021.03)
 - 🎓 `Algorithm` (2021.03~ )
-- 🎓 `JavaScript` (2022.02~ )
+- 🎓 `JavaScript` (2022.05~ )
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kosnoa" height="165">
