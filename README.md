@@ -7,7 +7,7 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kosnoa">
 
 - 🌱 I’m currently learning `Algorithm`
-- 🥇 I am currently an Ungradate
+- 🥇 I am currently an Undergradate
 - 🚅 I am currently studying in Canada
 
 ### Experience
