@@ -13,8 +13,9 @@
 ### Experience
 
 - 🎓 `HTML` `CSS` (Only Internet Search)
-- 🎓 `Clang` (2020.11~2021.03)
-- 🎓 `Algorithm` (2021.03~ )
+- 🎓 `C` (2020.11~2021.03)
+- 🎓 `C++` (2021.04~ )
+- 🎓 `Algorithm` (2021.04~ )
 - 🎓 `JavaScript` (2022.05~2022.06) [Focusing on Algorithm Study]
 
 ### What I Like
