@@ -13,10 +13,10 @@
 ### Experience
 
 - 🎓 `HTML` `CSS` (Only Internet Search)
-- 🎓 `C/C++` (2020.11~ )
-- 🎓 `Algorithm` (2021.04~ )
-- 🎓 `JavaScript` (2022.05~2022.06) (2022.10~ ) [Focusing on Algorithm Study]
-- 🎓 `Racket` (2022.09~ )
+- 🎓 `C/C++` (2020.11- )
+- 🎓 `Algorithm` (2021.04- )
+- 🎓 `JavaScript` (2022.05-2022.06) (2022.10- ) [Focusing on Algorithm Study]
+- 🎓 `Racket` (2022.09- )
 
 ### What I Like
 
