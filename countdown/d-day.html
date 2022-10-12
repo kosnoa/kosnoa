@@ -7,16 +7,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    <link rel="stylesheet" href="todo-list.css">
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="d-day.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap" rel="stylesheet">
 </head>
 
 <body>
-
     <nav class="navbar navbar-expand-lg" style="background-color: #e3f2fd;">
         <div class="container-fluid">
             <a class="navbar-brand" href="../index.html">kosnoa's Blog</a>
@@ -35,10 +36,10 @@
                         <a class="nav-link disabled">Todo-List</a>
                     </li> -->
                     <li class="nav-item">
-                        <a class="nav-link active" href="../todo-list/todo-list.html">To-do List</a>
+                        <a class="nav-link" href="../todo-list/todo-list.html">To-do List</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../countdown/d-day.html">Countdown</a>
+                        <a class="nav-link active" href="../countdown/d-day.html">Countdown</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -64,42 +65,54 @@
     </nav>
 
     <br>
-
     <header>
-        <h1>Task List 2022</h1>
-        <h5>Resets when refreshed or closed</h5>
-        <form id="new-task-form">
-            <input type="text" id="new-task-input" placeholder="What do you have plannned?" />
-            <input type="submit" id="new-task-submit" value="Add task" />
-        </form>
-    </header>
-    <main>
-        <section class="task-list">
-            <h2>Tasks</h2>
-            <div id="tasks">
-                <!-- <div class="task">
-                    <div class="content">
-                        <input type="text" class="text" value="My shiny task" readonly />
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card" style="background-color: #e3f2fd;">
+                        <div class="card-body">
+                            <h3 class="card-title center1">Math 135 Midterm</h3>
+                            <p class="countdown" id="math_135"></p>
+                        </div>
                     </div>
-                    <div class="actions">
-                        <button class="edit">Edit</button>
-                        <button class="delete">Delete</button>
-                    </div>
-                </div> -->
+                </div>
             </div>
-        </section>
-    </main>
+    </header>
+    
+    <br>
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card" style="background-color: #e3f2fd;">
+                        <div class="card-body">
+                            <h3 class="card-title center1">Math 137 Midterm</h3>
+                            <p class="countdown" id="math_137"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </header>
 
-
-
-
-
-
+    <br>
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card" style="background-color: #e3f2fd;">
+                        <div class="card-body">
+                            <h3 class="card-title center1">CS 135 Midterm</h3>
+                            <p class="countdown" id="cs_135"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </header>
 
 
     <!-- JavaScript Bundle with Popper -->
-    <script src="todo-list.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <script src="d-day.js"></script>
 </body>
 
 </html>
