@@ -54,7 +54,7 @@ var cs135_mid2 = setInterval(function() {
     + minutes + "m " + seconds + "s ";
       
     if (distance < 0) {
-      clearInterval(math135_mid);
+      clearInterval(cs135_mid2);
       document.getElementById("cs_135").innerHTML = "PASSED";
     }
 }, 1000);
