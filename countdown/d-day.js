@@ -2,7 +2,7 @@ var countDownCS135_Mid = new Date("Oct 3, 2022 19:00:00").getTime();
 var countDownMath135_Mid = new Date("Oct 17, 2022 19:00:00").getTime();
 var countDownMath137_Mid = new Date("Oct 24, 2022 19:00:00").getTime();
 var countDownCS135_Mid2 = new Date("Nov 7, 2022 19:00:00").getTime();
-var countDownMath135_Mid2 = new Date("Nov 17, 2022 19:00:00").getTime();
+var countDownMath135_Mid2 = new Date("Nov 14, 2022 19:00:00").getTime();
 
 var cs135_mid = setInterval(function() {
     var now = new Date().getTime();
