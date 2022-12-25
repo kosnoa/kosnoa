@@ -17,7 +17,7 @@
 - 🎓 `C++` (2021.04- )
 - 🎓 `Algorithm` (2021.04- )
 - 🎓 `JavaScript` (2022.05-2022.06) (2022.10- ) [Focusing on Algorithm Study]
-- 🎓 `Racket` (2022.09- )
+- 🎓 `Racket` (2022.09- 2022.12)
 
 ### What I Like
 
