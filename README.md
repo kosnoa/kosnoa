@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning `Algorithm`
 - 🥇 I am currently an Undergradate
-- 🚅 I am currently studying in Canada
+- 🚅 I am currently in ROKA serving in army
 
 ### What I Like
 
