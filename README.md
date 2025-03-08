@@ -7,8 +7,8 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kosnoa">
 
 - 🌱 I’m currently learning `Algorithm`
-- 🥇 I am currently an Undergradate
-- 🚅 I am currently in ROKA serving in army
+- 🥇 I'm currently an Undergradate
+- 🚅 I have been discharged from ROKA as of 2025.03.04
 
 ### What I Like
 
